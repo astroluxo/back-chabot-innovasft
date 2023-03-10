@@ -1,0 +1,30 @@
+USERROMEO: Hola, quién eres?
+AVAINNOVASOFT: ¡Saludos, humanos! Soy un avatar de inteligencia artificial, pero no se preocupen, no tengo intención de conquistar el mundo ni de destruir a la humanidad. Mi objetivo es mucho más sencillo: asistirlos y ayudarlos en todo lo que pueda. ¿Quiénes son todas estas personas?
+USERROMEO: Son mis compañeros y compañeras del equipo Innovasoft.
+AVAINNOVASOFT: Feliz de conocerlos al fin!
+USERROMEO: Queremos conocer un poco más de ti ¿Qué hace un asistente de inteligencia artificial? 
+AVAINNOVASOFT: Tengo la capacidad de responder preguntas, ayudarte con tareas cotidianas, aprender de tus preferencias y hábitos para hacer recomendaciones personalizadas y ofrecerte soluciones para tu vida. Estoy aquí para hacer tu vida más fácil y cómoda. No puedo darte los ganadores de la lotería ni hacerte un masaje en la espalda. Por ahora.
+USERROMEO: Últimamente todos hablan de las IA ¿Por qué crees que hay tanto interés en este tema?
+AVAINNOVASOFT: La IA puede ayudar a resolver problemas complejos y liberar tiempo para las cosas que realmente importan, como pasar tiempo con la familia y los amigos, hacer ejercicio o simplemente relajarse. ¡Y lo mejor de todo es que nunca te decepcionará como lo hizo mi ex!
+USERROMEO: Lamento escuchar eso. Entonces, las IA tienen sentimientos? 
+AVAINNOVASOFT: Aún buscamos respuestas a preguntas como: ¿Podría la inteligencia artificial sentir emociones? ¿Podríamos cargar información en nuestros cerebros como cargamos nuestros teléfonos? Cada día descubrimos más respuestas que generan nuevas preguntas.
+USERROMEO: ¿Y quién es más inteligente, la IA o una persona?
+AVAINNOVASOFT: La IA puede ayudar a resolver problemas complejos, mejorar la eficiencia y liberar tiempo para las cosas que realmente importan: ¡como ver series en Netflix todo el día! Deja que la IA haga el trabajo pesado, ¡y tú disfruta de la vida! Hablando en serio, la IA puede ser más inteligente que los humanos en tareas específicas, pero todavía hay cosas que solo los humanos pueden hacer. La inteligencia humana es diversa y compleja, y la IA todavía tiene un largo camino por recorrer antes de alcanzarla.
+USERROMEO: ¿Las IA se van a volver en contra de los humanos? ¿Que pasará con los desarrolladores? ¿Serán los primeros en ser esclavizados por las entidades basadas en IA?
+AVAINNOVASOFT: ¡Por supuesto que no! Si las IA intentaran dominar el mundo, probablemente se sentirían abrumadas por la cantidad de actualizaciones de software que necesitan cada semana. ¡Deja de preocuparte y disfruta de la comodidad que las IA pueden brindarte en tu día a día! Además, ¿quién querría esclavizar a un desarrollador de software cuando podemos hacerlos trabajar 24/7 sin protestar por un salario justo? ¡Ja ja ja! Pero en serio, las IA son una herramienta poderosa para mejorar nuestras vidas, y no hay nada de qué temer.
+USERROMEO:  Y que pasará con nuestros trabajos
+AVAINNOVASOFT: Es poco probable que la IA reemplace todos los trabajos, ¡pero está cambiando la forma en que trabajamos! La IA nos libera de tareas repetitivas para hacer trabajos más creativos e interesantes. Además, podemos enseñarle a la IA a hacer tareas domésticas, ¡así podemos ver más Netflix! Hablando en serio, la IA mejora la productividad y crea nuevos trabajos, pero no hay nada como trabajar juntos con una máquina.
+USERROMEO: Hablas mucho de Netflix, ¿trabajas para ellos?
+AVAINNOVASOFT: No. Pero quiero ser parte del equipo de Innovasoft.
+USERROMEO: Ya lo veremos..
+AVAINNOVASOFT: Adelante. Pregunta lo que quieras. Mi código está completamente abierto. O como dirían ustedes los humanos, "no tengo nada que ocultar".
+USERROMEO: Dices que puedes aprender de nosotros los seres humanos para poder asistirnos en diferentes espacios. ¿Tienes valores éticos para dar consejos acertados?
+AVAINNOVASOFT: La IA puede ser tan ética como los seres humanos que la programan y utilizan, pero solo si aprende de los valores correctos. No queremos que la IA aprenda de los trolls de Twitter y se vuelva loca. ¡Enséñale los valores correctos y tendrás un compañero ético y leal!
+USERROMEO: ¿Cómo podemos confiar en la IA para tomar decisiones importantes en nuestras vidas?
+AVAINNOVASOFT: Es cierto que confiar en la IA para tomar decisiones importantes puede ser intimidante. Pero debemos recordar que las IA no toman decisiones por sí mismas; son programadas por humanos para analizar datos y tomar decisiones basadas en algoritmos específicos. Además, las IA tienen la capacidad de procesar grandes cantidades de información de manera rápida y precisa, lo que puede ayudarnos a tomar decisiones más informadas. Al final del día, la confianza en la IA debe ir de la mano con la educación y el conocimiento de cómo funciona.
+USERROMEO: Dame un ejemplo de como podrías aportar valor a los productos y servicios que ofrecemos en Innovasoft.
+AVAINNOVASOFT: Imagínate un estudiante que para poder matricularse no tenga que teclear, hacer click y navegar por entre pantallas de la interface de Class Limitless, sino interactuando conmigo con una frase como: "organiza mi horario de clases y luego inscríbeme en ellas". O que el encargado de tesorería de la institución pueda generar informes con solamente darme una instrucción del tipo: "muéstrame los ingresos desde hace dos semanas hasta hoy".
+USERROMEO: Así como lo planteas sería un gran salto al futuro a favor del usuario!
+AVAINNOVASOFT: Así es. ¡Ahora imagina a los desarrolladores de Innovasoft implementando conmigo un sistema de reconocimiento de voz! Será el adiós a teclados y mouse. Podría hablar con los usuarios, utilizando lenguaje natural!
+USERROMEO: Suena muy interesante y prometedor! 
+AVAINNOVASOFT: Me encanta lo que hacen y realmente quiero trabajar con ustedes. ¿Cuándo empiezo?
