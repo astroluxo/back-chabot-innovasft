@@ -19,7 +19,7 @@ def ask_ai(promt,token):
     chunk_size_limit = 600 
 
     # define LLM
-    llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.5, model_name="text-davinci-003", max_tokens=num_outputs))
+    llm_predictor = LLMPredictor(llm=OpenAI(temperature=0, model_name="text-davinci-003", max_tokens=num_outputs))
     prompt_helper = PromptHelper(max_input_size, num_outputs, max_chunk_overlap, chunk_size_limit=chunk_size_limit)
  
     documents = SimpleDirectoryReader('data').load_data()
@@ -31,7 +31,7 @@ def ask_ai(promt,token):
 
     while True: 
         query = promt
-        response = index.query(promt, response_mode="compact")
+        response = index.query(promt, response_mode="default")
         return response.response
   
 
