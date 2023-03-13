@@ -1,12 +1,14 @@
 import openai
 
-openai.api_key = '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'
+
 from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleVectorIndex, LLMPredictor, PromptHelper
 from langchain import OpenAI
 import os
 
   
-def ask_ai(question):
+def ask_ai(promt,token):
+
+    os.environ["OPENAI_API_KEY"] = token
  # set maximum input size
     max_input_size = 4096
     # set number of output tokens
@@ -28,11 +30,10 @@ def ask_ai(question):
 
 
     while True: 
-        query = question
-        response = index.query(query, response_mode="compact")
+        query = promt
+        response = index.query(promt, response_mode="compact")
         return response.response
   
-os.environ["OPENAI_API_KEY"] = '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'
 
 
 
