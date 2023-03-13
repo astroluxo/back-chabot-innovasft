@@ -3,7 +3,7 @@ import os
 from fastapi import FastAPI
 from pruebas import ask_ai 
 from fastapi.middleware.cors import CORSMiddleware
-
+from pydantic import BaseModel
 app= FastAPI()
 
 origins = ["*"]
@@ -16,7 +16,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+class Data(BaseModel):
+    promt: str
+    token: str
 
-@app.get("/query")
-def root(query):
-    return ask_ai(query)
+
+@app.post("/promts")
+async def root(data:Data):
+    return ask_ai(data.promt,data.token)
