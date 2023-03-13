@@ -19,4 +19,4 @@ app.add_middleware(
 
 @app.get("/query")
 def root(query):
-    return ask_ai('La siguiente es una conversación con un asistente de la mesa de ayuda a la aplicación de Class Limitless. El asistente es útil, creativo, inteligente y muy amigable.\n\n'+'USERROMEO: '+query+'\nAVAINNOVASOFT:')
+    return ask_ai(query)
