@@ -1,0 +1,49 @@
+El sistema Class Limitless es una solución desarrollada por INNOVASOFT S.A.
+
+El módulo académico del Portal Administrativo del sistema Class Limitless permite a los usuarios administradores realizar diversas tareas como matricular, realizar pagos en línea, ver la agenda, calificaciones y solicitudes. Este portal es exclusivo para usuarios administrativos.
+
+[proceso de ingreso o login al módulo académico de un usuario administrativo] Para ingresar o acceder al módulo académico, el usuario debe ingresar su dirección de correo electrónico y contraseña en la pantalla de inicio de sesión. La dirección de correo electrónico debe estar marcada como favorita en el Portal Nuevo Ingreso, mientras que la contraseña debe ser el número de cédula del usuario. Si el usuario desea que sus credenciales se recuerden automáticamente, debe seleccionar la opción Recuérdame.
+
+Después de ingresar las credenciales, el usuario puede acceder al portal haciendo click en Iniciar sesión. El menú principal del módulo académico tiene botones auxiliares como Inicio, que lleva al usuario a la pantalla principal del sistema, Compañía que permite seleccionar la empresa relacionada, Idioma que permite seleccionar el idioma de trabajo y Usuario que muestra la información del usuario registrado y su imagen de perfil. El botón Cerrar sesión permite al usuario salir de forma segura del sistema.
+
+[opciones principales del menú módulo académico] Las opciones principales del menú del módulo académico son Favoritos y Menú. La opción Favoritos permite al usuario acceder rápidamente a los programas más utilizados. La opción Menú brinda acceso a todas las opciones del sistema. El menú módulo académico tiene las siguientes opciones: Parámetros (que permite a la institución configurar las condiciones de negocio del sistema), Registro (que permite al usuario crear y editar clientes, incluyendo administrativos, profesores y estudiantes y crear y consultar nuevas admisiones de estudiantes) y Académico (que permite al usuario llevar a cabo procesos académicos como la creación, edición y consulta de ofertas académicas, matriculaciones, calificaciones, homologaciones, convalidaciones, consulta de ceremonias académicas y excepciones de matrícula).
+
+[parámetros/parametrización del sistema] Compañías: En esta opción se pueden consultar las compañías que se encuentran creadas en el sistema. Para crear una compañía se debe ingresar al Área de configuración, parámetros, general, compañías. Para consultar las compañías creadas se da click en el ícono de la lupa.
+
+Sedes: En esta opción el sistema permitirá consultar las sedes que se encuentran creadas en el aplicativo. Para crear una sede se debe ingresar al Área de configuración, parámetros, general, sedes.
+
+Carreras: En esta opción el sistema permitirá consultar, editar, o crear nuevas carreras. El usuario administrativo debe crear cada una de las carreras que se van a utilizar en el sistema.
+
+[crear una carrera] para crear una carrera se deben ingresar los siguientes campos:
+
+Código: Se edita el código con el que se va a identificar la carrera a Crear que es un campo alfanumérico.
+
+Estado: Se define el estado con el que se va a crear la carrera: Activo o Inactivo. Para que se pueda dar apertura a la carrera esta debe tener el estado Activo.
+
+Nombre: Nombre y descripción de la carrera que se crea. 
+
+Clasificación: En esta opción se puede crear una clasificación haciendo click en el botón "crear". A una carrera se le debe asignar una clasificación.
+
+
+[Cursos] En esta opción el sistema permitirá consultar, editar o crear nuevos cursos. El usuario administrativo es quien debe crear cada uno de los cursos que se van a utilizar en el sistema.
+
+[crear un curso] los parámetros para crear un curso son: Código: Se edita el código con el que se va a identificar el curso a crear. Es un campo alfanumérico.
+
+Estado del curso: Activo o Inactivo. Para que pueda darse apertura al curso este debe tener el estado activo.
+
+Nombre del curso: Nombre o descripción del curso a crear. 
+
+Clasificación: Se puede seleccionar una clasificación ya creada, en donde se agrupará el curso a crear.
+[Práctica/Laboratorio]: Se escoge si el curso es tipo práctica o laboratorio.
+ 
+[Recursos]: Se asignan o relacionan los recursos que se van a utilizar para la realización del curso. Se debe definir si los recursos son obligatorios para el curso.
+
+[Acciones]: Editar la información del curso creado. El menú acciones tiene las opciones editar y/o eliminar.
+
+[Programas académicos]. Consulta de los programas académicos asignados al curso. Depende de la asignación de la carrera y el grado académico.
+
+[consulta de programas académicos] Se selecciona la carrera, el grado académico y el estado (activo o inactivo). Al hacer click en el botón lupa despliega la información solicitada. Esta opción permite editar la información del programa. En la opción consulta de programas académicos se habilitan los botones: Sedes, Detalle, Requisitos de admisión, Requisitos de graduación y Acciones.
+
+[crear programas académicos] Para crear un programa académico se deben seguir los siguientes pasos: Digitar el código y nombre del programa. Seleccionar/asignar la Carrera. Ingresar los datos de: grado académico, tipo de periodo, modalidad, jornada e información adicional.
+
+[gestión de cursos del programa académico] En esta opción se asignan los cursos del programa académico.
