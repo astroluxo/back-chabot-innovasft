@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = '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'
+openai.api_key = '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'
 from llama_index import SimpleDirectoryReader, GPTListIndex, readers, GPTSimpleVectorIndex, LLMPredictor, PromptHelper
 from langchain import OpenAI
 import os
@@ -32,7 +32,7 @@ def ask_ai(question):
         response = index.query(query, response_mode="compact")
         return response.response
   
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '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'
 
 
 
