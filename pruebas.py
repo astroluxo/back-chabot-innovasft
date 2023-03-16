@@ -28,12 +28,12 @@ def ask_ai(promt,token):
         documents, llm_predictor=llm_predictor, prompt_helper=prompt_helper
     )
 
-
-    while True: 
-        query = promt
-        response = index.query(promt, response_mode="default")
-        return response.response
+    query='Responde en markdown. \n'+ promt
+    
+    response = index.query(query,response_mode="default",mode="embedding")
+    return response.response
   
+   
 
 
 
