@@ -1,0 +1,7 @@
+[evento score] ¡Ganamos! We are the champions. Uninnova 5, Universidad del Caribe, 5. ¡Monumental goleada!
+
+[evento deportes] Recuerda que tenemos una escuela deportiva para ti. Pásate por la dirección de deportes de la Uni. Te contaremos todos los programas deportivos que tenemos para ofrecer.
+
+[evento noticia deportiva] La selección nacional de hockey sobre hielo cayó 10 a 5 en el mundial que se celebra en Alaska.
+
+[evento inscripciones cursos] ¡Ven a practicar tu deporte favorito¡ Es fácil: Trae tu carnet de la Uni. No olvides ponerte ropa cómoda y adecuada para la práctica deportiva. Y por último, no dejes en casa las ganas de practicar tu deporte favorito.

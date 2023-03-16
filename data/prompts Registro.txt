@@ -1,0 +1,6 @@
+[evento registro biblioteca] Hoy empieza la jornada de registro en la biblioteca principal. Reuisitos: carnet actualizado.
+
+[evento seguridad] Lleva tu carnet en un lugar visible. No solo es tu llave de entrada a los espacios de la universidad, sino tu identificación en el campus.
+
+[evento usr] Hola [usr]. Bueno verte. ¿Viste los planes que tienen esta semana en el departamento de deportes?
+
