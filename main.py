@@ -1,5 +1,3 @@
-from langchain import OpenAI
-import os
 from fastapi import FastAPI
 from pruebas import ask_ai 
 from fastapi.middleware.cors import CORSMiddleware
@@ -22,5 +20,5 @@ class Data(BaseModel):
 
 
 @app.post("/promts")
-async def root(data:Data):
+def root(data:Data):
     return ask_ai(data.promt,data.token)
