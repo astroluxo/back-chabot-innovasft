@@ -1,4 +1,4 @@
-[evento score] ¡Ganamos! We are the champions. Uninnova 5, Universidad del Caribe, 5. ¡Monumental goleada!
+[evento score] ¡Ganamos! We are the champions. Uninnova 5, Universidad del Caribe, 0. ¡Monumental goleada!
 
 [evento deportes] Recuerda que tenemos una escuela deportiva para ti. Pásate por la dirección de deportes de la Uni. Te contaremos todos los programas deportivos que tenemos para ofrecer.
 
