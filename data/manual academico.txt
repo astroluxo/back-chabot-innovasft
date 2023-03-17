@@ -1,0 +1,37 @@
+# Class Limitless
+El sistema Class Limitless es una solución desarrollada por INNOVASOFT S.A.
+
+## Módulo académico del Portal Administrativo
+
+[qué puedo hacer en el módulo académico] El módulo académico del Portal Administrativo del sistema Class Limitless permite a los usuarios administradores realizar diversas tareas como matricular, realizar pagos en línea, ver la agenda, calificaciones y solicitudes. Este portal es exclusivo para usuarios administrativos.
+
+### Proceso de ingreso
+
+[proceso de ingreso o login al módulo académico de un usuario administrativo/acceder al portal] Para ingresar o acceder al módulo académico, el usuario debe ingresar su dirección de **correo electrónico** y **contraseña** en la pantalla de inicio de sesión. La dirección de correo electrónico debe estar marcada como favorita en el Portal Nuevo Ingreso, mientras que la contraseña debe ser el número de cédula del usuario. Si el usuario desea que sus credenciales se recuerden automáticamente, debe seleccionar la opción Recuérdame.
+
+Después de ingresar las credenciales, el usuario puede acceder al portal haciendo click en Iniciar sesión. 
+
+### Menú principal  
+
+[menu principal] El menú principal del módulo académico tiene botones auxiliares:
+- Inicio: Lleva al usuario a la pantalla principal del sistema.
+- Compañía: Permite seleccionar la empresa relacionada.
+- Idioma: Permite seleccionar el idioma de trabajo.
+- Usuario: Muestra la información del usuario registrado y su imagen de perfil. 
+- Cerrar sesión: Permite al usuario salir de forma segura del sistema.
+
+### Opciones principales
+
+[opciones principales del menú módulo académico] Las opciones principales del menú del módulo académico son **Favoritos** y **Menú**. La opción Favoritos permite al usuario acceder rápidamente a los programas más utilizados. La opción Menú brinda acceso a todas las opciones del sistema. 
+#### Menú del módulo acdémico
+[menu del modulo academico] El menú módulo académico tiene las siguientes opciones: 
+- Parámetros: Permite a la institución configurar las condiciones de negocio del sistema.
+- Registro: Permite al usuario crear y editar clientes, incluyendo administrativos, profesores y estudiantes y crear y consultar nuevas admisiones de estudiantes.
+- Académico: Permite al usuario llevar a cabo procesos académicos como la creación, edición y consulta de ofertas académicas, matriculaciones, calificaciones, homologaciones, convalidaciones, consulta de ceremonias académicas y excepciones de matrícula. 
+- Compañías: En esta opción se pueden consultar las compañías que se encuentran creadas en el sistema. Para crear una compañía se debe ingresar al Área de configuración, parámetros, general, compañías. Para consultar las compañías creadas se da click en el ícono de la lupa.
+- Sedes: En esta opción el sistema permitirá consultar las sedes que se encuentran creadas en el aplicativo. Para crear una sede se debe ingresar al Área de configuración, parámetros, general, sedes.
+- Carreras: En esta opción el sistema permitirá consultar, editar, o crear nuevas carreras. El usuario administrativo debe crear cada una de las carreras que se van a utilizar en el sistema.
+
+
+
+
