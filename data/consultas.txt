@@ -1,0 +1,3 @@
+[Admisiones]
+[Consulta] ¿Por que no aparece el estudiante al crear una admision?
+[Respuesta] Validar en el programa de informacion CIF, que el estudiante cuente con el perfil **Estudiante**.
