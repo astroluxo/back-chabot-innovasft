@@ -1,7 +1,16 @@
 ### Periodos académicos
 [Periodos académicos] En la opción periodos académicos se crea el calendario académico por cada tipo de periodo. En la opción periodos académicos se pueden realizar búsquedas/consultas de periodos académicos existentes en el sistema.
 [realizar búsqueda/consulta de periodos académicos] Para realizar una búsqueda/consulta de un periodo académico se debe seleccionar la fecha inicio periodo y la fecha fin periodo. Al realizar la búsqueda se visualizan los programas académicos y las sedes asociadas al rango de fechas seleccionado.
-[crear/gestionar/editar un periodo académico] Para crear un periodo académico se deben ingresar las siguientes opciones: año, periodo, estado, tipo de periodo, subperiodo, número de subperiodo y descripción. Si ya existe un periodo académico relacionado con el tipo de periodo, no se puede crear un periodo académico, no se puede crear el calendario académico. A cada periodo académico se le asigna un a sede.
+#### Crear periodo académico
+[crear/gestionar/editar un periodo académico] Para crear un periodo académico se deben ingresar las siguientes opciones:
+- Año
+- Periodo
+- Estado
+- Tipo de periodo
+- Subperiodo
+- Número de subperiodo 
+- Descripción.
+Si ya existe un periodo académico relacionado con el tipo de periodo, no se puede crear un periodo académico, no se puede crear el calendario académico. A cada periodo académico se le asigna un a sede.
 ### Jornadas académicas
 [Jornadas académicas] En la opción módulo académico, parámetros, periodos académicos se crean las jornadas académicas. Para crear una jornada académica se debe definir los horarios y días de la semana.
 ### Instituciones de procedencia
