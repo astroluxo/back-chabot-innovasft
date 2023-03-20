@@ -33,7 +33,7 @@ def construct_index(direct,token):
     return index
   
 def ask_ai(promt,token):
-
+    os.environ["OPENAI_API_KEY"] = token
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
     query='Responde en markdown. \n'+ promt
     response = index.query(query,response_mode="default",mode="embedding")
