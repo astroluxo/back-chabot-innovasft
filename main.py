@@ -18,12 +18,16 @@ app.add_middleware(
 class Data(BaseModel):
     promt: str
     token: str
-
+        
+class Load(BaseModel):
+    direct: str
+    token: str
 
 @app.post("/promts")
 def root(data:Data):
     return ask_ai(data.promt,data.token)
 
-@app.get("/carga")
-def load():
-    return construct_index("data")
+
+@app.post("/carga")
+def load(load:Load):
+    return construct_index(load.direct,load.token)
