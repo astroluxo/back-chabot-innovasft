@@ -7,7 +7,7 @@ import os
 
 
 
-def construct_index(direc,token):
+def construct_index(direct,token):
     os.environ["OPENAI_API_KEY"] = token
     # set maximum input size
     max_input_size = 5096
@@ -22,7 +22,7 @@ def construct_index(direc,token):
     llm_predictor = LLMPredictor(llm=OpenAI(temperature=0.1, model_name="gpt-3.5-turbo", max_tokens=num_outputs))
     prompt_helper = PromptHelper(max_input_size, num_outputs, max_chunk_overlap, chunk_size_limit=chunk_size_limit)
  
-    documents = SimpleDirectoryReader(direc).load_data()
+    documents = SimpleDirectoryReader(direct).load_data()
     
     index = GPTSimpleVectorIndex(
         documents, llm_predictor=llm_predictor, prompt_helper=prompt_helper
