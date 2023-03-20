@@ -8,7 +8,7 @@ import os
 
 
 def construct_index(directory_path):
-    os.environ["OPENAI_API_KEY"] = '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'
+    os.environ["OPENAI_API_KEY"] = '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'
     # set maximum input size
     max_input_size = 5096
     # set number of output tokens
