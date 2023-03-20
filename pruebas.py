@@ -7,7 +7,7 @@ import os
 
   
 def ask_ai(promt,token):
-
+"""
     os.environ["OPENAI_API_KEY"] = token
  # set maximum input size
     max_input_size = 4096
@@ -27,9 +27,9 @@ def ask_ai(promt,token):
     index = GPTSimpleVectorIndex(
         documents, llm_predictor=llm_predictor, prompt_helper=prompt_helper
     )
-
+"""
+    index = GPTSimpleVectorIndex.load_from_disk('index.json')
     query='Responde en markdown. /markdown \n'+ promt
-    
     response = index.query(query,response_mode="default",mode="embedding")
     return response.response
   
