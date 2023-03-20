@@ -22,3 +22,7 @@ class Data(BaseModel):
 @app.post("/promts")
 def root(data:Data):
     return ask_ai(data.promt,data.token)
+
+@app.get("/carga")
+def load():
+    return construct_index("data")
