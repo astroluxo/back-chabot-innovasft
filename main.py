@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from pruebas import ask_ai 
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from pruebas import construct_index
 app= FastAPI()
 
 origins = ["*"]
