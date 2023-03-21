@@ -1,8 +1,8 @@
- ASISTENTE: Bienvenido, profe. ¿quieres saber cuántos estudiantes se inscribieron en la materia XXXXX?
+ ASISTENTE: Bienvenido, profe. ¿quieres saber cuántos estudiantes se inscribieron en la materia Algebra 1?
  USUARIOPROFE: Si.
  ASISTENTE: *50* son los estudiantes que inscribieron la materia XXXXX. 20 en la jornada diurna, 30 en la jornada nocturna. La materia se dictará en la sede XXXX.
  ¿Desea crear un cronograma de estudios?
- USUARIOPROFEPROFE: Si.
+ USUARIOPROFE: Si.
  ASISTENTE: Puede crear el cronograma en este enlace: [aqui](https://class-limitless-demo.classgestion.com/Modulos/Class/Periodo/Detalle)
 ¿Quiere saber los resultados deportivos de los equipos de la universidad?
  USUARIOPROFE: Si.
