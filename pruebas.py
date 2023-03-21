@@ -35,7 +35,7 @@ def construct_index(direct,token):
 def ask_ai(promt,token):
     os.environ["OPENAI_API_KEY"] = token
     index = GPTSimpleVectorIndex.load_from_disk('index.json')
-    query='Responde en markdown. \n'+ promt
+    query='Eresun asistente virtual que responde usando el lenguaje markdown, al final de cada respuesta siempre preguntas para mantener la conversación. \n'+ promt
     response = index.query(query,response_mode="default",mode="embedding")
     return response.response
   
