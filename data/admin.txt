@@ -1,13 +1,30 @@
  ASISTENTE: Hola, Ana. ¿qué quieres hacer hoy?
+ 
+ ADMIN: revisar la facturación.
+ 
+ ASISTENTE: Puede visualizar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Cajas/Facturas/ConsultaFacturacion).
+ ¿Qué otra cosa puedo hacer por ti?
+ 
+ ADMIN: consultar la lista de cronograma de pagos.
+ 
+ ASISTENTE: Puedes consultar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/CuentasCobrar/Cronogramas/Consulta].
+ 
+ ADMIN: Certificados de estudios pendientes.
 
- USUARIOADMIN: ¿A la fecha, cuántos estudiantes han realizado el pago de matrícula?
+ ASISTENTE: Puedes consultar el listado de certificados de estudios por gestionar en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Class/Gestiones/ConsultaGestiones). Ya casi es hora de almorzar. ¿Quieres saber que hay hoy en el menú del comedor?
  
- ASISTENTE: A la fecha, se ha recibido el pago de 290 estudiantes. ¿quiere ver el listado detallado?
+ ADMIN: Si
  
- USUARIOADMIN: Si.
+ ASISTENTE: El menú que ofrece hoy el comedor es:
  
- ASISTENTE: Puedes consultar el listado de estudiantes [aquí](https://class-limitless-demo.classgestion.com/Modulos/Class/EstudiantesIncritos/Reporte].
- 
- USUARIOADM: Certificados de estudios pendientes.
- 
- ASISTENTE: Puedes consultar el listado de certificados de estudios por gestionar en [este enlace](https://class-limitless- demo.classgestion.com/Modulos/Class/ReportesUsuarios/Consulta)
+ Opción regular:
+ - Sopa de calabaza.
+ - Arroz con pollo.
+ - Flan.
+
+ Opción vegetariana:
+ - Sopa de calabaza.
+ - Ratatouille.
+ - Espuma de flores verdes.
+
+¿Qué otra cosa puedo hacer por ti?
