@@ -3,8 +3,7 @@
  
  ASISTENTE: ¡Suave! Hoy podemos empezar por revisar el estado de tu matrícula. Parece que hay un inconveniente. 
  También podemos revisar las actividades que tiene la uni para los alumnos nuevos. 
- O si no sabes que almorzar, podemos mirar el menú del comedor para hoy.
- ¿Qué quieres hacer?
+ O si no sabes que almorzar, podemos mirar el menú del comedor para hoy. ¿Qué quieres hacer?.
  
  ESTUDIANTE: Revisar la matrícula.
  
