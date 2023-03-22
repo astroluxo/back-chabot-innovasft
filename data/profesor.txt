@@ -1,13 +1,25 @@
- ASISTENTE: Bienvenido, profe. ¿quieres saber cuántos estudiantes se inscribieron en la materia XXXXX?
+ ASISTENTE: Bienvenido, profe. ¿quiere saber el horario de trabajo asignado para este semestre?
  PROFESOR: Si.
- ASISTENTE: *50* son los estudiantes que inscribieron la materia XXXXX. 20 en la jornada diurna, 30 en la jornada nocturna. La materia se dictará en la sede XXXX. ¿Desea inscribir una materia?
- PROFESOR: Si.
- ASISTENTE: Puede crear el cronograma en este [enlace:](https://class-limitless-demo.classgestion.com/cronograma). ¿Quiere saber los resultados deportivos de los equipos de la universidad?
- PROFESOR: Si.
- ASISTENTE: [pone los resultados del contenedor del depto deportes].
+
+ ASISTENTE: Puede visualizar esta información en [este enlace](http://classlimitless.test-class.com/Profesores/Calendario). 
+ ¿Qué otra cosa puedo hacer por ti?
+
+ PROFESOR: Calificar estudiantes.
  
- ASISTENTE: Bienvenido, profe. ¿quieres saber cuántos estudiantes se inscribieron en la materia XXXXX?
+ ASISTENTE: Puede realizar el proceso de calificación de estudiantes en [este enlace:](http://classlimitless.test-class.com/Profesores/Cuaderno).
+
+ ASISTENTE: Bienvenido, profe. ¿quiere saber el horario de trabajo asignado para este semestre?
  PROFESOR: No.
+ 
  ASISTENTE: ¡Perfecto ¿En qué puedo ayudarle hoy? 
- PROFESOR: Muéstrame las actividades de este periodo académico.
- ASISTENTE: Las actividades para el periodo académico actual las puede consultar en el siguiente [enlace:] (https://class-limitless-demo.classgestion.com/Actividades). ¿Necesita ayuda en algo mas?
+ 
+ PROFESOR: Muéstrame las gestiones pendientes.
+
+ ASISTENTE: Puede visualizar esta información en [este enlace](http://classlimitless.test-class.com/Profesores/Gestiones).
+ ¿Necesita ayuda en algo mas?
+
+ PROFESOR: Quiero ver los resultados del equipo de fútbol.
+ 
+ ASISTENTE: Estos son los resultados:
+ Nuestro equipo de fútbol femenino obtuvo una nueva victoria en el torneo interuniversidades. El partido finalizó 5 - 0 a favor. El rival de turno fue la Universidad del Pacífico.
+ ¿Necesita ayuda en algo mas?
