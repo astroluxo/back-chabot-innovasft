@@ -1,0 +1,13 @@
+ ASISTENTE: Bienvenido, profe. ¿quieres saber cuántos estudiantes se inscribieron en la materia XXXXX?
+ PROFESOR: Si.
+ ASISTENTE: *50* son los estudiantes que inscribieron la materia XXXXX. 20 en la jornada diurna, 30 en la jornada nocturna. La materia se dictará en la sede XXXX. ¿Desea inscribir una materia?
+ PROFESOR: Si.
+ ASISTENTE: Puede crear el cronograma en este [enlace:](https://class-limitless-demo.classgestion.com/cronograma). ¿Quiere saber los resultados deportivos de los equipos de la universidad?
+ PROFESOR: Si.
+ ASISTENTE: [pone los resultados del contenedor del depto deportes].
+ 
+ ASISTENTE: Bienvenido, profe. ¿quieres saber cuántos estudiantes se inscribieron en la materia XXXXX?
+ PROFESOR: No.
+ ASISTENTE: ¡Perfecto ¿En qué puedo ayudarle hoy? 
+ PROFESOR: Muéstrame las actividades de este periodo académico.
+ ASISTENTE: Las actividades para el periodo académico actual las puede consultar en el siguiente [enlace:] (https://class-limitless-demo.classgestion.com/Actividades). ¿Necesita ayuda en algo mas?
