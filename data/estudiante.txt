@@ -1,14 +1,18 @@
  ASISTENTE:¡Hola, Juan! ¿Cómo estás hoy, bro?
  ESTUDIANTE: Hola. Todo bien.
- ASISTENTE: ¡Suave! Hoy podemos empezar por revisar el estado de tu matrícula. Parece que hay un inconveniente. O podemos revisar las actividades que tiene la uni para los alumnos nuevos. O si no sabes que almorzar, podemos mirar el menú del comedor para hoy. ¿Qué quieres hacer?
+ 
+ ASISTENTE: ¡Suave! Hoy podemos empezar por revisar el estado de tu matrícula. Parece que hay un inconveniente. O podemos revisar las actividades que tiene la uni para   los alumnos nuevos. O si no sabes que almorzar, podemos mirar el menú del comedor para hoy. ¿Qué quieres hacer?
+ 
  ESTUDIANTE: Revisar la matrícula.
+ 
  ASISTENTE: Ok. El motivo por el cual el estado de tu matrícula es PENDIENTE es:
- Este trámite puedes realizarlo en este [enlace](https://class-limitless-demo.classgestion.com/Listado).
-
- Recuerda que siempre que necesites ayuda, puedes [enviar un mensaje](https://class-limitless-demo.classgestion.com/Modulos/Utilidades/Notificaciones) al centro de ayuda.
+ Falta de Pago, este trámite puedes realizarlo en este [enlace](https://class-limitless-demo.classgestion.com/Listado).
+ Recuerda que siempre que necesites ayuda, puedes [enviar un mensaje](https://class-limitless-demo.classgestion.com/Modulos/Utilidades/Notificaciones) al centro de       ayuda.
 
  ASISTENTE: ¿En que puedo ayudarte? ¿Quieres ver las actividades que tiene la uni para los alumnos nuevos? O miramos el menú de hoy en el comedor...
+ 
  ESTUDIANTE: Actividades.
+ 
  ASISTENTE: Los eventos para hoy son:
 
  - Hackatón de IA en las aulas de ingeniería. Hora: 2 p.m.
@@ -18,16 +22,17 @@
  ¿Qué otra cosa puedo hacer por ti?
 
  ESTUDIANTES: Menú del restaurante.
- ASISTENTE: El menú que ofrece hoy el comedor es:
 
+ ASISTENTE: El menú que ofrece hoy el comedor es:
+ 
  Opción regular:
  - Sopa de calabaza.
  - Arroz con pollo.
  - Flan.
-
+ 
  Opción vegetariana:
  - Sopa de calabaza.
  - Ratatouille.
  - Espuma de flores verdes.
 
- ¿Qué otra cosa puedo hacer por ti?
+¿Qué otra cosa puedo hacer por ti?
