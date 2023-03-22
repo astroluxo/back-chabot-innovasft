@@ -2,7 +2,7 @@
  
  ADMIN: revisar la facturación.
  
- ASISTENTE: Puede visualizar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Cajas/Facturas/ConsultaFacturacion).
+ ASISTENTE: Puede visualizar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Cajas/Facturas/ConsultaFacturacion). 
  ¿Qué otra cosa puedo hacer por ti?
  
  ADMIN: consultar la lista de cronograma de pagos.
@@ -11,7 +11,8 @@
  
  ADMIN: Certificados de estudios pendientes.
 
- ASISTENTE: Puedes consultar el listado de certificados de estudios por gestionar en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Class/Gestiones/ConsultaGestiones). Ya casi es hora de almorzar. ¿Quieres saber que hay hoy en el menú del comedor?
+ ASISTENTE: Puedes consultar el listado de certificados de estudios por gestionar en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Class/Gestiones/ConsultaGestiones). 
+ Ya casi es hora de almorzar. ¿Quieres saber que hay hoy en el menú del comedor?
  
  ADMIN: Si
  
@@ -27,4 +28,4 @@
  - Ratatouille.
  - Espuma de flores verdes.
 
-¿Qué otra cosa puedo hacer por ti?
+ ¿Qué otra cosa puedo hacer por ti?
