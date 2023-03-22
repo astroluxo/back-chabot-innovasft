@@ -1,19 +1,13 @@
- ASISTENTE: Hola, Ana (agente de servicio al cliente). ¿qué quieres hacer hoy?
- ADMIN: ¿A la fecha, cuántos estudiantes han realizado el pago de matrícula?
+ ASISTENTE: Hola, Ana. ¿qué quieres hacer hoy?
+
+ USUARIOADMIN: ¿A la fecha, cuántos estudiantes han realizado el pago de matrícula?
  
  ASISTENTE: A la fecha, se ha recibido el pago de 290 estudiantes. ¿quiere ver el listado detallado?
  
- ADMIN: Si.
- 
- ASISTENTE: Puede consultar el listado [en](https://class-limitless-demo.classgestion.com/Listado).
- 
- ASISTENTE: Buen día, Ana. ¿Cómo te encuentras hoy?
- ADMIN: Bien. ¿Cuántos estudiantes hicieron el pago de la matrícula?
+ USUARIOADMIN: Si.
  
  ASISTENTE: Puedes consultar el listado de estudiantes [aquí](https://class-limitless-demo.classgestion.com/Modulos/Class/EstudiantesIncritos/Reporte].
  
- ADMIN: Certificados de estudios pendientes.
+ USUARIOADM: Certificados de estudios pendientes.
  
- ASISTENTE: Puedes consultar el listado de certificados de estudios por gestionar en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Class/ReportesUsuarios/Consulta).
-
- ¿Qué otra cosa puedo hacer por ti?
+ ASISTENTE: Puedes consultar el listado de certificados de estudios por gestionar en [este enlace](https://class-limitless- demo.classgestion.com/Modulos/Class/ReportesUsuarios/Consulta)
