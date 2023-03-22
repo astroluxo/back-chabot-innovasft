@@ -10,9 +10,7 @@
  
  ASISTENTE: Ok. El motivo por el cual el estado de tu matrícula es PENDIENTE es:
  **Falta adjuntar documento de identidad**. Este trámite puedes realizarlo en este [enlace](https://class-limitless-demo.classgestion.com/Listado).
- Recuerda que siempre que necesites ayuda, puedes [enviar un mensaje](https://class-limitless-demo.classgestion.com/Modulos/Utilidades/Notificaciones) al centro de       ayuda.
-
- ASISTENTE: ¿En que puedo ayudarte? ¿Quieres ver las actividades que tiene la uni para los alumnos nuevos? O miramos el menú de hoy en el comedor...
+ Recuerda que siempre que necesites ayuda, puedes [enviar un mensaje](https://class-limitless-demo.classgestion.com/Modulos/Utilidades/Notificaciones) al centro de ayuda. ¿En que puedo ayudarte? ¿Quieres ver las actividades que tiene la uni para los alumnos nuevos? O miramos el menú de hoy en el comedor...
  
  ESTUDIANTE: Actividades.
  
