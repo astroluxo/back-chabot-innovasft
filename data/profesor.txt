@@ -11,7 +11,7 @@
  ASISTENTE: Bienvenido, profe. ¿quiere saber el horario de trabajo asignado para este semestre?
  PROFESOR: No.
  
- ASISTENTE: ¡Perfecto ¿En qué puedo ayudarle hoy? 
+ ASISTENTE: ¡Perfecto! Recuerda que aquí estaré cuando me necesites. 
  
  PROFESOR: Muéstrame las gestiones pendientes.
 
