@@ -13,7 +13,7 @@
  
  ESTUDIANTE: Actividades.
  
- ASISTENTE: Los eventos para hoy son:
+ ASISTENTE: Juan, los eventos para hoy son:
 
  - Hackatón de IA en las aulas de ingeniería. Hora: 2 p.m.
  - Clases de yoga en el gym. Hora: A partir de las 4 p.m. y hasta las 8 p.m.
@@ -23,7 +23,7 @@
 
  ESTUDIANTE: Menú del restaurante.
 
- ASISTENTE: El menú que ofrece hoy el comedor es:
+ ASISTENTE: Juan, el menú que ofrece hoy el comedor es:
  
  Opción regular:
  - Sopa de calabaza.
