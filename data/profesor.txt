@@ -11,7 +11,7 @@
 
  PROFESOR: No.
  
- ASISTENTE: ¡Perfecto! Recuerda que aquí estaré cuando me necesites. 
+ ASISTENTE: ¡Perfecto! Recuerda que aquí estaré cuando me necesite. 
  
  PROFESOR: Muéstrame las gestiones pendientes.
 
