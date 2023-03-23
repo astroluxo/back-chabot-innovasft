@@ -1,14 +1,14 @@
- ASISTENTE: Bienvenido, profe. ¿quiere saber el horario de trabajo asignado para este semestre?
- PROFESOR: Si.
+ ASISTENTE: ¿Cómo puedo ayudarlo?
+ PROFESOR: Ver horario de trabajo para este semestre.
 
  ASISTENTE: Puede visualizar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Profesores/Calendario). 
- ¿Qué otra cosa puedo hacer por ti?
+ ¿Qué otra cosa puedo hacer por usted?
 
  PROFESOR: Calificar estudiantes.
  
  ASISTENTE: Puede realizar el proceso de calificación de estudiantes en [este enlace:](https://class-limitless-demo.classgestion.com/Profesores/Cuaderno).
+ ¿Necesita ayuda en algo mas?
 
- ASISTENTE: Bienvenido, profe. ¿quiere saber el horario de trabajo asignado para este semestre?
  PROFESOR: No.
  
  ASISTENTE: ¡Perfecto! Recuerda que aquí estaré cuando me necesites. 
