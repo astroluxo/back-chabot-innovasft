@@ -1,0 +1,100 @@
+El sistema Class Limitless es una solución desarrollada por INNOVASOFT S.A.
+
+[qué puedo hacer en el módulo académico] El módulo académico del Portal Administrativo del sistema Class Limitless permite a los usuarios administradores realizar diversas tareas como matricular, realizar pagos en línea, ver la agenda, calificaciones y solicitudes. Este portal es exclusivo para usuarios administrativos.
+
+[proceso de ingreso o login al módulo académico de un usuario administrativo/acceder al portal] Para ingresar o acceder al módulo académico, el usuario debe ingresar su dirección de correo electrónico y contraseña en la pantalla de inicio de sesión. La dirección de correo electrónico debe estar marcada como favorita en el Portal Nuevo Ingreso, mientras que la contraseña debe ser el número de cédula del usuario. Si el usuario desea que sus credenciales se recuerden automáticamente, debe seleccionar la opción Recuérdame.
+
+Después de ingresar las credenciales, el usuario puede acceder al portal haciendo click en Iniciar sesión. El menú principal del módulo académico tiene botones auxiliares como Inicio, que lleva al usuario a la pantalla principal del sistema, Compañía que permite seleccionar la empresa relacionada, Idioma que permite seleccionar el idioma de trabajo y Usuario que muestra la información del usuario registrado y su imagen de perfil. El botón Cerrar sesión permite al usuario salir de forma segura del sistema.
+
+[opciones principales del menú módulo académico] Las opciones principales del menú del módulo académico son Favoritos y Menú. La opción Favoritos permite al usuario acceder rápidamente a los programas más utilizados. La opción Menú brinda acceso a todas las opciones del sistema. El menú módulo académico tiene las siguientes opciones: Parámetros (que permite a la institución configurar las condiciones de negocio del sistema), Registro (que permite al usuario crear y editar clientes, incluyendo administrativos, profesores y estudiantes y crear y consultar nuevas admisiones de estudiantes) y Académico (que permite al usuario llevar a cabo procesos académicos como la creación, edición y consulta de ofertas académicas, matriculaciones, calificaciones, homologaciones, convalidaciones, consulta de ceremonias académicas y excepciones de matrícula).
+
+{prompt para crear usuarios}
+
+
+[parámetros/parametrización del sistema] Compañías: En esta opción se pueden consultar las compañías que se encuentran creadas en el sistema. Para crear una compañía se debe ingresar al Área de configuración, parámetros, general, compañías. Para consultar las compañías creadas se da click en el ícono de la lupa.
+ya nos 
+Sedes: En esta opción el sistema permitirá consultar las sedes que se encuentran creadas en el aplicativo. Para crear una sede se debe ingresar al Área de configuración, parámetros, general, sedes.
+
+Carreras: En esta opción el sistema permitirá consultar, editar, o crear nuevas carreras. El usuario administrativo debe crear cada una de las carreras que se van a utilizar en el sistema.
+
+[crear una carrera] para crear una carrera se deben ingresar los siguientes campos:
+
+Código: Se edita el código con el que se va a identificar la carrera a Crear que es un campo alfanumérico.
+
+Estado: Se define el estado con el que se va a crear la carrera: Activo o Inactivo. Para que se pueda dar apertura a la carrera esta debe tener el estado Activo.
+
+Nombre: Nombre y descripción de la carrera que se crea. 
+
+Clasificación: En esta opción se puede crear una clasificación haciendo click en el botón: Crear. A una carrera se le debe asignar una clasificación.
+
+
+[Cursos] En esta opción el sistema permitirá consultar, editar o crear nuevos cursos. El usuario administrativo es quien debe crear cada uno de los cursos que se van a utilizar en el sistema.
+
+[crear un curso] los parámetros para crear un curso son: Código: Se edita el código con el que se va a identificar el curso a crear. Es un campo alfanumérico.
+
+Estado del curso: Activo o Inactivo. Para que pueda darse apertura al curso este debe tener el estado activo.
+
+Nombre del curso: Nombre o descripción del curso a crear. 
+
+Clasificación: Se puede seleccionar una clasificación ya creada, en donde se agrupará el curso a crear.
+[Práctica/Laboratorio]: Se escoge si el curso es tipo práctica o laboratorio.
+ 
+[Recursos]: Se asignan o relacionan los recursos que se van a utilizar para la realización del curso. Se debe definir si los recursos son obligatorios para el curso.
+
+[Acciones]: Editar la información del curso creado. El menú acciones tiene las opciones editar y/o eliminar.
+
+[Programas académicos] Consulta de los programas académicos asignados al curso. Depende de la asignación de la carrera y el grado académico.
+
+[consulta de programas académicos] Se selecciona la carrera, el grado académico y el estado (activo o inactivo). Al hacer click en el botón lupa despliega la información solicitada. Esta opción permite editar la información del programa. En la opción consulta de programas académicos se habilitan los botones: Sedes, Detalle, Requisitos de admisión, Requisitos de graduación y Acciones. En la opción sede se visualizan las sedes creadas. También se puede escoger una sede relacionada con la oferta del programa académico. En la opción detalle se parametrizan los créditos de cada curso, el bloque de cada curso, la secuencia dentro del periodo para el curso y si el curso tiene requisitos/corequisitos. Los requisitos/corequisitos se pueden parametrizar en la opción detalle de este menú. La opción configuración académica tiene dos opciones: pregrado y posgrado. La opción requisito de admisión al programa permite parametrizar los requisitos que se solicitan al estudiante cuando está realizando el proceso de admisión. La opción requisitos de graduación permite parametrizar los requisitos que se solicitan al estudiante cuando está realizando el proceso de graduación.
+
+[crear un programa académico] En la opción consulta de programas académicos se hace click en el botón "Crear". A continuación se digita el código y el nombre de la carrera. Luego, se selecciona la carrera. Se ingresan la información de grado académico, tipo de periodo, modalidad, jornada e información adicional. Por último se hace click en el botón "Guardar".
+
+[gestión de programas académicos] La opción gestión de programas académicos-registro permite cambiar el nombre del programa, el código del programa, jornada, grado académico, tipo de periodo e información adicional. En la opción gestión cursos del programa se asignan los cursos que componen el programa académico. En la opción gestión cursos del programa se visualizan las siguientes propiedades de un curso: alias, nombre del curso, créditos, bloque, secuencia y tipo. La opción tipo tiene tres opciones: regular, requisito graduación y grupo electivas.
+
+[Periodos académicos] En la opción periodos académicos se crea el calendario académico por cada tipo de periodo. En la opción periodos académicos se pueden realizar búsquedas/consultas de periodos académicos existentes en el sistema.
+[realizar búsqueda/consulta de periodos académicos] Para realizar una búsqueda/consulta de un periodo académico se debe seleccionar la fecha inicio periodo y la fecha fin periodo. Al realizar la búsqueda se visualizan los programas académicos y las sedes asociadas al rango de fechas seleccionado.
+[crear/gestionar/editar un periodo académico] Para crear un periodo académico se deben ingresar las siguientes opciones: año, periodo, estado, tipo de periodo, subperiodo, número de subperiodo y descripción. Si ya existe un periodo académico relacionado con el tipo de periodo, no se puede crear un periodo académico, no se puede crear el calendario académico. A cada periodo académico se le asigna un a sede.
+
+[Jornadas académicas] En la opción módulo académico, parámetros, periodos académicos se crean las jornadas académicas. Para crear una jornada académica se debe definir los horarios y días de la semana.
+
+[Instituciones de procedencia] En la opción módulo académico, parámetros, instituciones de procedencia se puede hacer la búsqueda/creación de las instituciones de procedencia.
+[Buscar instituciones de procedencia] En la opción módulo académico, parámetros, instituciones de procedencia se puede realizar la búsqueda de instituciones de procedencia por tipo de periodo, año, periodo y estado.
+[Crear instituciones de procedencia] En la opción módulo académico, parámetros, instituciones de procedencia se pueden crear las instituciones. Para crear una institución se debe definir el tipo de institución, el país, la provincia, cantón, distrito o barrio y la dirección exacta.
+
+[Estructuras de evaluación] En la opción módulo académico, parámetros, estructura de evaluación se puede hacer la búsqueda/creación de las estructuras de evaluación.
+[Buscar estructuras de evaluación] En la opción módulo académico, parámetros, estructura de evaluación se puede hacer la búsqueda de las estructuras de evaluación por tipo de periodo, año, periodo y estado.
+[Crear estructuras de evaluación] En la opción módulo académico, parámetros, estructura de evaluación se puede crear una estructura de evaluación. Para crear una estructura de evaluación se deben definir los datos generales de la estructura de evaluación y el detalle de la estructura de evaluación.
+
+[detalles de la estructura de evaluación] Los parámetros de la estructura de evaluación son: código, descripción, valor mínimo y máximo, definir si es la nota final, definir si se aplica el cálculo de una fórmula e ingresar los valores de la fórmula.
+
+[opción Fórmula] Las fórmulas para calcular las calificaciones se pueden crear/editar en la opción módulo académico, parámetros, estructura de evaluación.
+
+[cursos asociados a la estructura de evaluación] En la opción módulo académico, parámetros, estructura de evaluación se asocian los cursos con las estructuras de evaluación correspondientes.
+[programas asociados a la estructura de evaluación] En la opción módulo académico, parámetros, estructura de evaluación se asocian los programas con las estructuras de evaluación correspondientes.
+
+[Aulas] En la opción módulo académico, parámetros, aulas se pueden crear/buscar/editar las aulas.
+[editar un aula] Al editar un aula se puede cambiar la sede, los recursos y la información adicional asociada.
+[eliminar un aula] Al hacer click en el botón eliminar, opción "acciones", se elimina el aula seleccionada.
+
+[crear un aula] los parámetros para crear un aula son: Código: Se edita el código con el que se va a identificar el aula a crear. Es un campo alfanumérico.
+
+Estado del aula: Activo o Inactivo. Para que el aula pueda utilizarse en cualquier programa académico esta debe tener el estado activo.
+
+Nombre del aula: Nombre o descripción del aula a crear.
+
+Edificio: Lugar donde está ubicada el aula. Esta opción se puede editar.
+
+Tipo de aula: En esta opción se puede editar/crear el tipo de aula.
+
+Capacidad: número de personas permitidas en el aula.
+Habilitada para discapacitados: Al seleccionar esta opción se indica si el aula es accesible a personas con discapacidad.
+Dirección: Dirección donde se encuentra ubicada el aula.
+Una vez ingresada/editada la información del aula se hace click en el botón guardar.
+
+[Qué es Homologación de asignaturas] La homologación es la equivalencia de asignaturas entre diferentes programas académicos. Usualmente se presenta cuando un estudiante va a cursar una asignatura pero ya la cursó en un programa diferente. 
+[opción Homologación] En la opción módulo académico, parámetros, homologación, se pueden gestionar/editar/consultar las asignaturas homologables entre los diferentes programas académicos.
+[buscar una asignatura homologable] En la opción módulo académico, parámetros, homologación, se puede buscar una asignatura homologable seleccionando la carrera, el grado académico y el estado. Al desplegarse las asignaturas homologables se pueden editar/gestionar.
+[gestión/edición de asignaturas homologables] En la opción módulo académico, parámetros, homologación, se encuentra la columna "Acciones". Al hacer click en el botón de acciones se realiza la gestión del curso del programa.
+[gestión de la homologación de los cursos] En la opción módulo académico, parámetros, homologación, se encuentra la columna "Acciones". Al hacer click en el botón de acciones se realiza la gestión del curso del programa. Su visualizan el número de créditos, el bloque correspondiente, la secuencia en la que se realizará y el tipo de clasificación correspondiente. Además, esta opción permitirá seleccionar el curso equivalente/homologable.
+
+[Registro]
