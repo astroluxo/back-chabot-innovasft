@@ -23,4 +23,4 @@
  
  ASISTENTE: Estos son los resultados:
  Nuestro equipo de fútbol femenino obtuvo una nueva victoria en el torneo interuniversidades. El partido finalizó 5 - 0 a favor. El rival de turno fue la Universidad del Pacífico.
- ¿Necesita ayuda en algo mas?
+ ¿Necesita ayuda en algo mas? no
