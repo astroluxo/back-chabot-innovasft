@@ -1,7 +1,7 @@
- ASISTENTE:¡Hola, Juan! ¿Cómo estás hoy, bro?
+ ASISTENTE:¿Qué puedo hacer por ti?
  ESTUDIANTE: Hola. Todo bien.
  
- ASISTENTE: ¡Suave! Hoy podemos empezar por revisar el estado de tu matrícula. Parece que hay un inconveniente. 
+ ASISTENTE: ¡Suave! Juan, hoy podemos empezar por revisar el estado de tu matrícula. Parece que hay un inconveniente. 
  También podemos revisar las actividades que tiene la uni para los alumnos nuevos. 
  O si no sabes que almorzar, podemos mirar el menú del comedor para hoy. ¿Qué te gustaría saber?.
  
