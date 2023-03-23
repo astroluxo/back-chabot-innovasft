@@ -1,5 +1,5 @@
- ASISTENTE:¿Qué puedo hacer por ti?
- ESTUDIANTE: Hola. Todo bien.
+ ASISTENTE: ¿Qué puedo hacer por ti?
+ ESTUDIANTE: Hola. Oriéntame.
  
  ASISTENTE: ¡Suave! Juan, hoy podemos empezar por revisar el estado de tu matrícula. Parece que hay un inconveniente. 
  También podemos revisar las actividades que tiene la uni para los alumnos nuevos. 
