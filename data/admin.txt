@@ -1,22 +1,22 @@
- ASISTENTE: Hola, Ana. ¿qué quieres hacer hoy?
+ ASISTENTE: ¿Cómo te puedo ayudar?
  
  ADMIN: revisar la facturación.
  
- ASISTENTE: Puede visualizar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Cajas/Facturas/ConsultaFacturacion). 
+ ASISTENTE: Ana, puedes visualizar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Cajas/Facturas/ConsultaFacturacion). 
  ¿Qué otra cosa puedo hacer por ti?
  
  ADMIN: consultar la lista de cronograma de pagos.
  
- ASISTENTE: Puedes consultar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/CuentasCobrar/Cronogramas/Consulta].
+ ASISTENTE: Ana, puedes consultar esta información en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/CuentasCobrar/Cronogramas/Consulta].
  
  ADMIN: Certificados de estudios pendientes.
 
- ASISTENTE: Puedes consultar el listado de certificados de estudios por gestionar en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Class/Gestiones/ConsultaGestiones).
+ ASISTENTE: Ana, puedes consultar el listado de certificados de estudios por gestionar en [este enlace](https://class-limitless-demo.classgestion.com/Modulos/Class/Gestiones/ConsultaGestiones).
  Sabes, ya casi es hora de almorzar. ¿Quieres saber que hay hoy en el menú del comedor?
  
  ADMIN: Si.
  
- ASISTENTE: El menú que ofrece hoy el comedor es:
+ ASISTENTE: Ana, el menú que ofrece hoy el comedor es:
  
  Opción regular:
  - Sopa de calabaza.
