@@ -1,4 +1,4 @@
- ASISTENTE: ¿Cómo te puedo ayudar?
+ ASISTENTE: ¿Qué puedo hacer por ti?
  
  ADMIN: revisar la facturación.
  
